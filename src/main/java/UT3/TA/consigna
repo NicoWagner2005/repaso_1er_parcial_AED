@@ -1,0 +1,37 @@
+2
+UNIDAD TEMÁTICA 3: Listas, Pilas y Colas
+TRABAJO DE APLICACIÓN 1
+Ejercicio #2
+Escenario:
+La tienda “Grandeza y Elegancia ANte Todo” (por sus siglas G.E.AN.T), líder en el rubro de
+supermercados del país, necesita gestionar los productos de su supermercado, y nos ha
+encargado la construcción de un sistema software que permita hacerlo en forma eficiente.
+La información que se tiene sobre un producto puede ser muy variable y extensa, pero como
+mínimo se tendrá:
+ Nombre del producto (alfanumérico, máximo 30 caracteres),
+ Código de identificación del producto (alfanumérico, máximo 20 caracteres)
+ Precio unitario (coma flotante).
+La primera versión de nuestro sistema deberá implementar las siguientes funcionalidades:
+ Incorporar un nuevo producto al supermercado.
+ Agregar stock a un producto existente.
+ Reducir el stock de un producto existente (simulando la venta de un producto). El tener un
+stock 0 de un producto, no implica la eliminación del mismo.
+ Listar todos los productos registrados, ordenados por nombre, presentando además su
+stock.
+Finalmente la / el Arquitect@ ha decidido implementar las estructuras referidas utilizando
+listas con encadenamiento simple, y ha solicitado a tu Equipo que desarrolle un algoritmo
+apropiado para dar de alta un nuevo artículo al stock.
+Se necesita entonces:
+Desarrollar una descripción del algoritmo en seudocódigo, de acuerdo a las buenas prácticas
+comúnmente aceptadas (de acuerdo a la guía publicada):
+ Descripción de alto nivel en lenguaje natural
+ Especificación de pre y post condiciones
+ Seudocódigo detallado
+Dinámica del ejercicio:
+1. El Equipo desarrollará el producto indicado (30 minutos), y construirá un POSTER para
+ser expuesto en la clase. Se contará con un formulario que tiene los criterios básicos
+evaluables.
+2. Cada Equipo evaluará los trabajos de los demás, de acuerdo a los criterios evaluables.
+(10 minutos), escribiendo el valor en el POSTER evaluado.
+3. Se realizará un concurso entre los 2 trabajos mejor evaluados por los pares, durante el
+cual los Equipos fundamentarán sus evaluaciones.
